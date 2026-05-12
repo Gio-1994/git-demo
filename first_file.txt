@@ -3,3 +3,5 @@ every day
 The course is
 very interesting
 one line added
+one more line
+TESTING GUI
